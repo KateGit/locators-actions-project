@@ -1,6 +1,6 @@
 ## Basic Automation Project
 
-#### Selenium Web Driver Structured Project
+#### Selenium Web Driver Structured Project for Locators and Actions
 
  * Java 
  * Maven
